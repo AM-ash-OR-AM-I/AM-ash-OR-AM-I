@@ -1,9 +1,9 @@
 # Hi there 👋, this is Ashutosh.
 
-- 🔭 I’m currently working on - https://github.com/AM-ash-OR-AM-I/Find_MyStuff
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: ashutosh2gudu@gmail.com
 - 😄 Pronouns: He/Him
+<!-- - 🔭 I’m currently working on - ....-->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
