@@ -1,4 +1,4 @@
-# Hi there, This is Ashutosh 👋
+# Hi there 👋, this is Ashutosh.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula)
 
