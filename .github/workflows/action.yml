@@ -11,9 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+        with: 
 
           # Options
           user: AM-ash-OR-AM-I
