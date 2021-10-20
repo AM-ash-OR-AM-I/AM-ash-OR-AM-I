@@ -9,6 +9,6 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&bg_color=50,9796ef,f9c6d4&title_color=000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&bg_color=50,9796ef,f9c6d4&title_color=FFFFFF)
 
 ![Metrics](https://github.com/AM-ash-OR-AM-I/AM-ash-OR-AM-I/blob/main/github-metrics.svg)
