@@ -1,6 +1,7 @@
 # Hi there 👋, this is Ashutosh.
 
-- 🌱 I’m currently learning Python
+- 🔭 Knows Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: ashutosh2gudu@gmail.com
 - 😄 Pronouns: He/Him
 <!-- - 🔭 I’m currently working on - ....-->
