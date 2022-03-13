@@ -3,7 +3,6 @@
 - 🔭 Knows Python
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: ashutosh2gudu@gmail.com
-- 😄 Pronouns: He/Him
 <!-- - 🔭 I’m currently working on - ....-->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
