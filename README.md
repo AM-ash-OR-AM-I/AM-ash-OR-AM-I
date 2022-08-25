@@ -4,7 +4,7 @@
 - 💬 Ask me about Python, Kivy, Linux
 - 📫 How to reach me: ashutosh2gudu@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=onedark&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 ## Softwares I have used
