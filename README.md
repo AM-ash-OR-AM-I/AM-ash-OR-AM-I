@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey, there! Ashutosh here.👋&fontSize=50&animation=fadeIn"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey,%20there!%20Ashutosh%20here.👋&fontSize=50&animation=fadeIn)
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
