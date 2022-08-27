@@ -25,7 +25,7 @@
 </p>
 
 ## Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=onedark&hide_border=true">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=onedark&hide_border=true">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=onedark&hide_border=true" width=350>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=onedark&hide_border=true"width=350>
 </p>
