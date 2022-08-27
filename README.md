@@ -11,13 +11,19 @@
 </p>
 
 ## About me
-```YAML
-name: Ashutosh Mahapatra
-interests: [
+```Python
+name = "Ashutosh Mahapatra"
+knows = ["Python", "Java", "Kivy"]
+interests = [
     "App development",
+    "Cybersecurity",
     "Machine Learning & AI"
-    ]
-knows: ["Python", "Java", "Kivy"]
+]
+
+# TODO: Learning web development, Data Science & Cybersecurity
+
+while True:
+    print("Keep Learning!")
 ```
 
 ## Softwares I have used
@@ -39,3 +45,5 @@ knows: ["Python", "Java", "Kivy"]
 <img src="https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=onedark&hide_border=true" width=400>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=onedark&hide_border=true"width=400>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=100&text=See%20ya!&fontSize=30)
