@@ -11,7 +11,7 @@
 </p>
 
 ## About me
-```yaml
+```YAML
 name: Ashutosh Mahapatra
 interests: [
     "App development",
