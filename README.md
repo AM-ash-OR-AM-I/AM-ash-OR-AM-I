@@ -10,6 +10,16 @@
     <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
 </p>
 
+## About me
+```yaml
+name: Ashutosh Mahapatra
+interests: [
+    "App development"
+    "Machine Learning & AI"
+    ]
+knows: ["Python", "Java", "Kivy"]
+```
+
 ## Softwares I have used
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width ="40" height = "40"/>             
