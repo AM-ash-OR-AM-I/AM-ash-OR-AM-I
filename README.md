@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hey,%20there!%20Ashutosh%20here.👋&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hey,%20there!%20Ashutosh%20here.👋&fontSize=40&animation=fadeIn)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -14,7 +14,7 @@
 ```yaml
 name: Ashutosh Mahapatra
 interests: [
-    "App development"
+    "App development",
     "Machine Learning & AI"
     ]
 knows: ["Python", "Java", "Kivy"]
