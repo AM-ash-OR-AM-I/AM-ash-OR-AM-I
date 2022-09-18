@@ -50,4 +50,4 @@ while True:
 <img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=onedark&hide_border=true" height=220>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=100&text=See%20ya!&fontSize=30)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=130&text=See%20ya!&fontSize=30)
