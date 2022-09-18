@@ -43,8 +43,9 @@ while True:
 
 ## Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=onedark&hide_border=true" width=400>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=onedark&hide_border=true"width=400>
+<img src="https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=onedark&hide_border=true" height=220>
+<img src="http://github-readme-stats.vercel.app/api/top-langs/?username=am-ash-or-am-i&theme=onedark&hide_border=true" height=220>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=onedark&hide_border=true" height=220>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=100&text=See%20ya!&fontSize=30)
