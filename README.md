@@ -13,7 +13,7 @@
 ## About me
 ```Python
 name = "Ashutosh Mahapatra"
-knows = ["Python", "Java", "Kivy", "Flutter"]
+knows = ["Python", "Java", "Flutter", "Kivy"]
 learning = "Flutter"
 interests = [
     "App development",
