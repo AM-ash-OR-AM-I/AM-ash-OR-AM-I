@@ -43,7 +43,7 @@ while True:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
 </p>
 
-## Stats
+## Statistics 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=onedark&hide_border=true" height=200>
 <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=am-ash-or-am-i&theme=onedark&hide_border=true" height=200>
