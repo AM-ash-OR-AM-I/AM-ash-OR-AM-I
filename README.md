@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hey,%20there!%20Ashutosh%20here.👋&fontSize=40&animation=fadeIn)
 
-<h3 align="center">Connect with me 👨‍💻</h3>
+<h3 align="center">Connect with me 🧑🏻‍💻💻</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/ashutosh-mahapatra-bb0476233/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -50,7 +50,7 @@ while True:
 <img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=onedark&hide_border=true" height=220>
 </p>
 
-## Hacktoberfest2022 badges 🚀
+## Hacktoberfest2022 badges 
 
 [![@ashu_coder's Holopin board](https://holopin.me/ashu_coder)](https://holopin.io/@ashu_coder)
 
