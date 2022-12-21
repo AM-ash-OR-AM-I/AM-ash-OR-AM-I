@@ -29,10 +29,10 @@ while True:
 
 ## Softwares I have used
 [![My Skills](https://skillicons.dev/icons?i=python,java,dart,flutter,git,bash,vscode,linux)](https://skillicons.dev)          
-<img src="./img/Kivy_logo.png" alt="Kivy" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+<img src="./img/Kivy_logo.png" alt="Kivy" width="45" height="45"/>
 
 ## Statistics 📊
 <p align="center">
