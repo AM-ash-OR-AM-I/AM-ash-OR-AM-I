@@ -44,4 +44,4 @@ while True:
 
 [![@ashu_coder's Holopin board](https://holopin.me/ashu_coder)](https://holopin.io/@ashu_coder)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=130&text=See%20ya!&fontSize=30)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=130&text=Bye!&fontSize=30)
