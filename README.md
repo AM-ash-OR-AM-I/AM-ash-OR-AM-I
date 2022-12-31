@@ -36,8 +36,8 @@ while True:
 
 ## Statistics 📊
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=onedark&hide_border=true" width=420>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=onedark&hide_border=true" width=420>
+<img src="https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=onedark&hide_border=true" width=400>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=onedark&hide_border=true" width=400>
 </p>
 
 ## Hacktoberfest2022 badges 
