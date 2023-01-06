@@ -36,10 +36,10 @@ while True:
 
 ## Statistics 📊
 
-![](https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true)
-![](http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true&border_radius=10" width="600px"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=true&border_radius=10" width="600px"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=am-ash-or-am-i&radius=10&hide_border=true&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=am-ash-or-am-i&radius=15&hide_border=true&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Hacktoberfest2022 badges 
 
