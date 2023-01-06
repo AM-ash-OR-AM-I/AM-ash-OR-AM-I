@@ -35,10 +35,11 @@ while True:
 <img src="./img/Kivy_logo.png" alt="Kivy" width="45" height="45"/>
 
 ## Statistics 📊
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true" width=600>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=false" width=700>
-</p>
+
+![](https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true)
+![](http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=true)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=am-ash-or-am-i&radius=10&hide_border=true&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Hacktoberfest2022 badges 
 
