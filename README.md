@@ -40,7 +40,7 @@ while True:
 
 <div>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=true&border_radius=10" width="600px"/>
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=am-ash-or-am-i&show_icons=true&theme=dracula&hide_border=true&border_radius=10" height="235px"/>
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=am-ash-or-am-i&show_icons=true&theme=dracula&hide_border=true&border_radius=10" height="200px"/>
     <img src="https://github-readme-stats.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true&border_radius=10" width="600px"/>
 </div>
 
