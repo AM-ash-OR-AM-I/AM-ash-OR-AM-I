@@ -1,15 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hey,%20there!%20Ashutosh%20here.👋&fontSize=40&animation=fadeIn)
 
-<h3 align="center">Connect with me 🧑🏻‍💻</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/ashutosh-mahapatra-bb0476233/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://leetcode.com/ashu_coder/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-    <a href="https://www.codechef.com/users/ashu2909">
-    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
-</p>
-
 ## About me
 ```py
 name = "Ashutosh Mahapatra"
