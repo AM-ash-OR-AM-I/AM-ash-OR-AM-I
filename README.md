@@ -22,6 +22,7 @@ while True:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
 <img src="./img/Kivy_logo.png" alt="Kivy" width="45" height="45"/>
+<img src="./img/assembly.png" alt="Kivy" width="45" height="45"/>
 
 ## Visitors 👀
 ![Visitor Count](https://profile-counter.glitch.me/AM-ash-OR-AM-I/count.svg)    
