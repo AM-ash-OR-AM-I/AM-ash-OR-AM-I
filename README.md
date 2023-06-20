@@ -34,7 +34,7 @@ while True:
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=am-ash-or-am-i&show_icons=true&theme=dracula&hide_border=true&border_radius=10" height="200px"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=am-ash-or-am-i&radius=15&hide_border=true&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=am-ash-or-am-i&radius=15&hide_border=true&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Hacktoberfest2022 badges 
 
