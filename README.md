@@ -18,10 +18,13 @@ while True:
 ```
 
 ## Softwares I have used 🚀
-[![My Skills](https://skillicons.dev/icons?i=python,java,dart,flutter,aws,gcp,firebase,flask,fastapi,git,githubactions,html,css,bootstrap,jquery,linux,bash,vscode)](https://skillicons.dev)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="40" height="40"/>
-<img src="./img/Kivy_logo.png" alt="Kivy" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,dart,flutter,java,aws,gcp,firebase,githubactions,git,md,html,css,bootstrap)](https://skillicons.dev)
+<div>
+<img src="./img/Kivy_logo.png" alt="Kivy" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="50" height="50"/>
+<img src= "https://skillicons.dev/icons?i=linux,bash,vscode"/>
+</div>
 
 ## Visitors 👀
 ![Visitor Count](https://profile-counter.glitch.me/AM-ash-OR-AM-I/count.svg)    
