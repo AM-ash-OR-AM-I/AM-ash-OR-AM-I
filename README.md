@@ -31,15 +31,12 @@ while True:
 
 ## Statistics 📊
 
-<div>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=true&border_radius=10" width="51%"/>
-    <img src="https://my-github-stats-deployment.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true&border_radius=10" width="47%"/>
-</div>
+![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=true&border_radius=10) | ![Github Stats](https://my-github-stats-deployment.vercel.app/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true&border_radius=10) |
+-- | -- |
 
-<div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=am-ash-or-am-i&radius=15&hide_border=true&theme=dracula" width="72%">
-    <img src="https://my-github-stats-deployment.vercel.app/api/top-langs/?username=am-ash-or-am-i&show_icons=true&theme=dracula&hide_border=true&border_radius=10" width="26%"/>
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=am-ash-or-am-i&radius=15&hide_border=true&theme=dracula) | ![Top Languages](https://my-github-stats-deployment.vercel.app/api/top-langs/?username=am-ash-or-am-i&show_icons=true&theme=dracula&hide_border=true&border_radius=10) |
+-- | -- |
+
 
 ## Hacktoberfest2022 badges 
 
