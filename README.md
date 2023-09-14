@@ -17,7 +17,7 @@ while True:
     print("Keep Learning!")
 ```
 
-## Softwares I have used 🚀
+## Technologies 🧑🏻‍💻
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,dart,flutter,java,aws,gcp,firebase,githubactions,git,md,html,css,bootstrap)](https://skillicons.dev)
 <div>
 <img src="./img/Kivy_logo.png" alt="Kivy" width="50" height="50"/>
