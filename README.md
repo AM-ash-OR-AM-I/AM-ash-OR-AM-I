@@ -31,7 +31,7 @@ while True:
 
 ## Statistics 📊
 
-![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=true&border_radius=10) | ![Github Stats](https://github-readme-stats.zohan.tech/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true&border_radius=10) |
+![Github Stats](https://github-readme-stats.zohan.tech/api?username=AM-ash-OR-AM-I&show_icons=true&theme=dracula&hide_border=true&border_radius=10) | ![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=am-ash-or-am-i&theme=dracula&hide_border=true&border_radius=10) |
 -- | -- 
 
 <div>
