@@ -22,10 +22,7 @@ while True:
 [![My Skills](https://skillicons.dev/icons?i=bash,linux,bootstrap)](https://skillicons.dev)
 <img src="./img/Kivy_logo.png" alt="Kivy" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="50" height="50"/>
-
-## Visitors 👀
-![Visitor Count](https://profile-counter.glitch.me/AM-ash-OR-AM-I/count.svg)    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="50" height="50"/>   
 
 ## Statistics 📊
 
@@ -42,3 +39,7 @@ while True:
 [![@ashu_coder's Holopin board](https://holopin.me/ashu_coder)](https://holopin.io/@ashu_coder)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=130&text=Bye!&fontSize=30)
+
+
+## Visitors 👀
+![Visitor Count](https://profile-counter.glitch.me/AM-ash-OR-AM-I/count.svg) 
