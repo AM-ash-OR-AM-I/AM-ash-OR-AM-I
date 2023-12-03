@@ -9,7 +9,7 @@ interests = [
     "Machine Learning & AI"
 ]
 
-# TODO: Learning Data Science & Cybersecurity
+# TODO: Machine Learning & Cybersecurity
 
 while True:
     print("Keep Learning!")
