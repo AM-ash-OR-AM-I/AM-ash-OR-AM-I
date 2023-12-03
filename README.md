@@ -2,8 +2,7 @@
 
 ## About me
 ```py
-knows = ["Python", "Java", "Flutter", "Kivy"]
-learning = "Flutter"
+knows = ["Python", "Java", "Dart", "C", "Kivy"]
 interests = [
     "App development",
     "Cybersecurity",
