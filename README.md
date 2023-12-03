@@ -2,7 +2,6 @@
 
 ## About me
 ```py
-name = "Ashutosh Mahapatra"
 knows = ["Python", "Java", "Flutter", "Kivy"]
 learning = "Flutter"
 interests = [
