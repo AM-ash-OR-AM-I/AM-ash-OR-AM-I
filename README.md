@@ -31,7 +31,7 @@ while True:
 
 <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=am-ash-or-am-i&radius=15&hide_border=true&theme=dracula" width="70%">
-    <img src="https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=am-ash-or-am-i&show_icons=true&theme=dracula&hide_border=true&border_radius=10" width="26%"/>
+    <img src="https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=am-ash-or-am-i&show_icons=true&theme=dracula&hide_border=true&border_radius=10&hide=jupyter%20notebook,kvlang" width="26%"/>
 </div>
 
 ## Hacktoberfest2022 badges 
