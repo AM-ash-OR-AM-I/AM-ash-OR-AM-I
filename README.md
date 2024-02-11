@@ -9,8 +9,6 @@ interests = [
     "Machine Learning & AI"
 ]
 
-MAIL = "ashutoshmaha2909@gmail.com"
-
 # TODO: Machine Learning & Cybersecurity
 
 while True:
