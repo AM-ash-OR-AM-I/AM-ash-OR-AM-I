@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hey,%20there!%20Ashutosh%20here.👋&fontSize=40&animation=fadeIn)
 
 ## Technologies 🧑🏻‍💻
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,kubernetes,docker,dart,flutter,java,c,aws,gcp,firebase,githubactions,git,md,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,kubernetes,docker,dart,flutter,java,c,aws,gcp,firebase,githubactions,git,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bash,linux,bootstrap)](https://skillicons.dev)
 <img src="./img/Kivy_logo.png" alt="Kivy" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="50" height="50"/>   
