@@ -17,7 +17,7 @@
     <img src="https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=am-ash-or-am-i&show_icons=true&theme=dracula&hide_border=true&border_radius=10&hide=jupyter%20notebook,kvlang" width="26%"/>
 </div>
 
-## Hacktoberfest2022 badges 
+## Hacktoberfest 2022 badges 
 
 [![@ashu_coder's Holopin board](https://holopin.me/ashu_coder)](https://holopin.io/@ashu_coder)
 
